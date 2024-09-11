@@ -1,0 +1,23 @@
+Candidate Name: Dhruv Gautam
+Age: 22
+Applicant Skills:
+- Python
+- Pandas
+- TensorFlow
+- Predictive Analytics
+- machine learning
+- NumPy
+- JavaScript
+- Java
+- HTML
+- CSS
+- Algorithms
+- Machine Learning
+- adaptability
+- MySQL
+Job Profile: ['Data Scientist', 'AI Engineer', 'Research Scientist']
+Candidate Contact:
+- 9105395283
+Candidate Email:
+- dhruv.gautam.0022@gmail.com
+Predicted Personality: ['dependable']

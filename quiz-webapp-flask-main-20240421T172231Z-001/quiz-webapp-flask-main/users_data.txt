@@ -1,0 +1,7 @@
+Muhammad Afzal,mafzaldev@gmail.com,123456,1,4,4
+AMRIT SRIVASTAVA,AMRIT.SRIVASTAVA45@GMAIL.COM,123456,1,4,4
+apar,apar.srivastava@gmail.com,1234,3,4,4
+Apaar Srivastava,srivastavaapaar15@gmail.com,apaar1234,0,0,0,responsible,Web Developer, Frontend Developer, UI/UX Developer
+Robert,robert@xyz.com,2345,2,5,5
+Dhruv Gautam,dhruvgautam469@gmail.com,789,3,12,12,,
+Dhruv Gautam,dhruv.gautam.0022@gmail.com,789,6,12,12,dependable,Data Scientist, AI Engineer, Research Scientist,dependable,Data Scientist, AI Engineer, Research Scientist,lively,Data Scientist, AI Engineer, Research Scientist,lively,Web Developer, Frontend Developer, UI/UX Developer, Data Scientist, AI Engineer, Research Scientist, Data Engineer,lively,Data Scientist, AI Engineer, Research Scientist

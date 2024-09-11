@@ -1,0 +1,12 @@
+The purpose of the Front-end framework in Full stack development is __.?,To provide the client-side interface,To manage database,To reduce the server load,To send http requests,To provide the client-side interface   
+ Amongst which of the following programming language is used as a server-side language?,Python,C++,JavaScript,Both A and C,Both A and C
+ Database in Full stack development is used to __.?,Styling HTML pages,Storing and retrieving data,Handling errors on server-side,Rendering web pages,Storing and retrieving data
+What is Git?,Framework,Version control system,Database,Package manager,Version control system
+The term "deployment" refers to?,Running the project on a server to make it accessible to all,Bundling all the project files into a single file,Removing unnecessary files,Updating existing project,Running the project on a server to make it accessible to all
+What is a Front-end framework?,A development platform for developing user-interface for software applications,A database to store and manage the data of an application,A development platform for writing server-side logic,None of the above, A development platform for developing user-interface for software applications
+A web server in Full Stack Development is __.?,Rendering the user interface,Handling client-side interactions,Executing server-side code and processing requests,Writing server-side logics,Executing server-side code and processing requests
+Is JavaScript synchronous or asynchronous?,Synchronous,Asynchronous,Both,Synchronous but can be used as asynchronous,Synchronous but can be used as asynchronous
+SPA stands for __.?,Standard Page Application,Single Page Application,Smart Protocol Authentication,Scalable Performance Architecture,Single Page Application
+Amongst which of the following type of database is used in Full stack development?,Relational,JSON,XML,GraphQL,Relational
+ Amongst which of the following protocol is used to exchange the data between client and server?,HTTP,TCP/IP,SMTP,FTP,HTTP
+ Which of the following statement is TRUE about AJAX?,AJAX enables asynchronous data retrieval without reloading the entire page,AJAX improves the design layout,AJAX helps in creating dynamic websites,AJAX is a popular query language for Full stack development,AJAX enables asynchronous data retrieval without reloading the entire page.

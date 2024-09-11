@@ -1,0 +1,24 @@
+Candidate Name: Apaar Srivastava,
+Age: 22,
+Applicant Skills:
+- machine learning
+- algorithms
+- CSS
+- AWS
+- Machine Learning
+- Data Structures
+- Bootstrap
+- MongoDB
+- Web Development
+- Git
+- JavaScript
+- HTML
+- data structures
+- Java,
+Job Profile: ['Web Developer', 'Frontend Developer', 'UI/UX Developer'],
+Candidate Contact:
+- 8869862801
+- 9412750001,
+Candidate Email:
+- srivastavaapaar15@gmail.com ,
+Predicted Personality: ['extraverted']

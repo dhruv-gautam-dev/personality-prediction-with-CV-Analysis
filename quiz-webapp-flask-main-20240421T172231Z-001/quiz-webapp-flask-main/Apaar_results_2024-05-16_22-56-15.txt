@@ -1,0 +1,24 @@
+Candidate Name: Apaar
+Age: 23
+Applicant Skills:
+- algorithms
+- AWS
+- CSS
+- Java
+- machine learning
+- HTML
+- Bootstrap
+- Machine Learning
+- Data Structures
+- Git
+- data structures
+- MongoDB
+- JavaScript
+- Web Development
+Job Profile: ['Web Developer', 'Frontend Developer', 'UI/UX Developer']
+Candidate Contact:
+- 8869862801
+- 9412750001
+Candidate Email:
+- srivastavaapaar15@gmail.com
+Predicted Personality: ['responsible']

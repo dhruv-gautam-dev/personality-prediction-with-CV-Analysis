@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block title %}
+  <div style="font-size: 30px; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif">
+   PERSONALITY PREDICTION VIA CV ANALYSIS | USER
+</div>
+{% endblock %}
+
+{% block body %}
+<div style="font-size: 50px; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif">
+   Welcome {{var}}
+</div>
+<hr>
+This test consists of two sections: (1) a multiple-choice question section and (2) a
+constructed-response assignment section. Each question in the first section is a
+multiple-choice question with four answer choices. Read each question and answer
+choice carefully and choose the ONE best answer.
+Try to answer all questions. In general, if you have some knowledge about a question, it
+is better to try to answer it. You will not be penalized for guessing.
+The second section contains one constructed-response assignment. Directions for the
+constructed-response assignment section appear immediately before the assignment.
+You may work on the multiple-choice questions and the constructed-response
+assignment in any order that you choose. Be sure to allocate your time carefully so you
+are able to complete the entire test within the testing session. You may go back and
+review your answers at any time during the testing session.
+You may NOT use a calculator or reference materials during the testing session.
+
+{% endblock %}
+
+
+{% block navbar%}
+<li class="nav-item">
+    <a href="/quizstrt" class="nav-link">
+<!--<i class="nav-icon fas fa-tachometer-alt"></i> -->
+      <p>
+        Take Quiz
+      </p>
+    </a>
+  </li>
+  <li class="nav-item">
+    <a href="/show" class="nav-link">
+      <p>
+        Check Results
+      </p>
+    </a>
+  </li>
+<li class="nav-item">
+    <a href="/logout" class="nav-link">
+      <p>
+        Logout
+      </p>
+    </a>
+  </li>
+{% endblock %}
